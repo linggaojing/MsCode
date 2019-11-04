@@ -1,3 +1,3 @@
-# LuaMVC
-基于LuaFramework的LuaMVC
+# MsCode
+基于LuaFramework
 
