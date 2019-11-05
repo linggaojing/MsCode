@@ -1,0 +1,7 @@
+﻿Initialize OK!!!
+19:20:18.694-3: ver20100 jit:     true    SSE2    SSE3    SSE4.1    BMI2    fold    cse    dce    fwd    dse    narrow    loop    abc    sink    fuse
+19:20:18.695-3: os: Windows, arch: x64
+CreatePanel::>> GameManager LoginView (UnityEngine.GameObject)
+19:20:41.884-699: LuaState destroy
+~GameManager was destroyed
+~NetworkManager was destroy
